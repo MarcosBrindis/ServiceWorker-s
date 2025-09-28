@@ -1,0 +1,12 @@
+{
+  "name": "todo-app-pwa",
+  "version": "1.0.0",
+  "description": "Lista de tareas con Service Worker y PWA",
+  "scripts": {
+    "start": "npx serve ."
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "serve": "^14.0.1"
+  }
+}
